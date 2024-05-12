@@ -1,0 +1,13 @@
+#hero, .banner{
+    width: 100%;
+    background-image: url('../../images/my_picture.jpg');
+}
+
+.footer-card{
+    color: orange;
+    background-color: gray;
+}
+
+.footer-one p{
+    color: red
+}
