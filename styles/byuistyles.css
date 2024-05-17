@@ -1,0 +1,34 @@
+body {
+    margin: 0; /* this line gets rid of the little space at the top of a page */
+}
+
+a:hover {
+    background-color: white;
+    color: steelblue;
+}
+
+img {
+    width: 30%;
+}
+
+* {
+    border: 2px solid blue;
+}
+
+h1 {
+    text-align: center;
+}
+
+nav, footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+    /* You can add 10px, 20px, 30px, 40px this padding will go from top, right, bottom, left */
+    /* If you only do 2 ___, ___ then its the top and bottom */
+}
+
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+    text-align: center;
+}
