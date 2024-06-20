@@ -1,0 +1,61 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+.small_card{
+    width: 250px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.header_img{
+    width: 100%;
+
+}
+
+h5{
+    color: #42628C;
+}
+
+article{
+    padding: 10%;
+    text-align: center;
+
+}
+
+.footer_grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    background-color: #3F5B8B;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+}
+
+.footer_card{
+    display: grid;
+    justify-items: center;
+} 
+
+.info_footer{
+    align-self: end;
+}
+
+.title_footer{
+    align-self: start;
+
+}
+
+.footer_card_middle{
+    display: grid;
+    border-left: 1px grey solid;
+    border-right: 1px grey solid;
+
+}
+
+.footer_last{
+    display: grid;
+}
