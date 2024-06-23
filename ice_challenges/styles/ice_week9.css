@@ -41,7 +41,7 @@ article{
 } 
 
 .info_footer{
-    align-self: end;
+    align-items: end;
 }
 
 .title_footer{
