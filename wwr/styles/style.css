@@ -82,8 +82,7 @@ nav a{
 }
 
 .faq-grid{
-    /* display: grid; */
-    /* grid-template-columns: 300px, 1fr; */
+    margin: 30px;
 }
 
 .saftey-card{
@@ -101,6 +100,8 @@ nav a{
 
 .faq-paragraph{
     grid-row: 2/3;
+    align-self: start;
+    font-size: 19px;
 }
 
 .faq-img{
