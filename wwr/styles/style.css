@@ -96,6 +96,7 @@ nav a{
 }
 .faq-img{
     grid-row: 2/3;
+    align-self: center;
 }
 
 .faq-paragraph{
